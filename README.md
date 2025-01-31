@@ -1,16 +1,16 @@
 # ML_Assignments
 A collection of assignments done for the course Machine Learning @IIITD
 
-## Assignment 1
+## [Assignment 1](Assignment1)
 Worked with audio, image and speech data. Performed basic data analysis and visualization.
 
-## Assignment 2
+## [Assignment 2](Assignment2)
 
 Implemented unsupervised and supervised learning algorithms from scratch. Implemented K-means, PCA, Linear Regression, Multiple Linear Regression, Polynomial Regression. 
 
 Used metrics like R2 score to evaluate regression models. Used silhouette score to find best value of K in K-means clustering.
 
-## Kaggle 1
+## [Kaggle 1](Kaggle1)
 
 ### Dataset 
 https://archive.ics.uci.edu/dataset/256/daily+and+sports+activities
@@ -23,7 +23,7 @@ Predict the correct activity given the sensor data. There are 19 activities in t
 ### Approach
 Classified the activities using Kmeans and KNN. KNN gave better results.
 
-## Kaggle 2
+## [Kaggle 2](Kaggle2)
 
 ### Dataset
 Link is given in the ipynb file.
